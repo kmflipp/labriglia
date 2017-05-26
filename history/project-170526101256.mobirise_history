@@ -28,8 +28,7 @@
     "noImageResize": "",
     "publishFtpPath": "httpdocs",
     "publishType": "ftp",
-    "ftpLocation": "ftp://thefork@ftp.ristorantelabriglia.it:21",
-    "path": "@PROJECT_PATH@"
+    "ftpLocation": "ftp://thefork@ftp.ristorantelabriglia.it:21"
   },
   "pages": {
     "index.html": {
@@ -184,7 +183,7 @@
           },
           "title": "Ristorante La Briglia",
           "text": "di Loriana Barsotti<br>VI OFFRIRÒ IL MEGLIO DELLA CUCINA TOSCANA<br><br>Per soddisfare il vostro palato mi impegno personalmente a selezionare le migliori carni o il miglior pesce presenti sul nostro territorio. Offrendo così la miglior freschezza ed il miglior sapore da poter servire nei vostri piatti.<br><br>In qualità di cuoca gestisco con molta cura ed attenzione l'intero approvigionamento della cucina che viene offerta, cercando di proporre soluzioni di grande gusto, in base al periodo stagionale e curate nella presentazione. Creando così sapori unici e particolari in ogni periodo dell’anno.<br><br>Vi aspetto!!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#contacts2-h\" data-toolbar=\"-mbrBtnMove\">Dove è La Briglia?</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mailtrack.io/trace/link/d2cbc4dc14cf18904cb82a8f8355b41e833e0e60?url=https%3A%2F%2Fmodule.lafourchette.com%2Fit_IT%2Fmodule%2F278245-14b1c&amp;signature=f61ef3e1f27a23d6\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Prenota un posto con The Fork</a>  "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#contacts2-h\" data-toolbar=\"-mbrBtnMove\">Dove è La Briglia?</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mailtrack.io/trace/link/d2cbc4dc14cf18904cb82a8f8355b41e833e0e60?url=https%3A%2F%2Fmodule.lafourchette.com%2Fit_IT%2Fmodule%2F278245-14b1c&amp;signature=f61ef3e1f27a23d6\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Prenota un posto con The Fork</a>  "
         },
         {
           "_tags": [
