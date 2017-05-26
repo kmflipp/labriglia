@@ -25,10 +25,7 @@
     "uniqCompNum": 20,
     "versionPublish": "3.12.1",
     "favicon": "",
-    "noImageResize": "",
-    "publishFtpPath": "httpdocs",
-    "publishType": "ftp",
-    "ftpLocation": "ftp://thefork@ftp.ristorantelabriglia.it:21"
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
